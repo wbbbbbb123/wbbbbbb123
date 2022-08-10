@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wbbbbbb123
 - 👀 I’m interested in Digital ICs
 - 🌱 I’m currently learning Veriog\SV\UVM
-- 💞️ I’m looking to collaborate on UVM-based IIC verification platform design
+- 💞️ I’m looking to collaborate on UVM-based IIC verification platform design or Voice detection and localization based on sound arrays
 - 📫 How to reach me 1782442205@qq.com
 
 <!---
